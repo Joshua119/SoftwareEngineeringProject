@@ -7,3 +7,27 @@ img {
     padding-right: 10px;
     padding-left: 10px;
 }
+
+body {
+    font-family: 'Garamond';
+    text-align: center;
+    background-color:lightblue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    text-decoration: underline;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
