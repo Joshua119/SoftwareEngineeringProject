@@ -1,0 +1,9 @@
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+#role {
+    padding-right: 10px;
+    padding-left: 10px;
+}
