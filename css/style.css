@@ -11,7 +11,7 @@ img {
 body {
     font-family: 'Garamond';
     text-align: center;
-    background-color:lightblue;
+    background-color: #F2EEB3;
 }
 
 table {
@@ -30,4 +30,9 @@ header {
 p {
     padding-left: 100px;
     padding-right: 100px;
+}
+
+td {
+    padding-left: 20px;
+    padding-right: 20px;   
 }
