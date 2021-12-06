@@ -1,0 +1,70 @@
+10/26
+-	Setup basic use case diagram
+-	Setup basic list of requirements
+-	Discussed general details for how game will function
+-	Plan to continue work on use case/requirements list Thursday
+
+10/28
+-	Finished both the use case diagram and project requirements
+-	Discussed various aspects of the game
+-	Further developed ideas for minigames/difficulties
+-	Decided on 4th-6th grade focus rather than a specific grade
+-	Meeting next on Tuesday at 4pm
+
+11/2
+-	Started work on the class diagram and sequence diagrams
+-	Discussed how to show unity features in a class diagram
+-	Solidified how the game would actually work
+-	Met for approximately 1.5 hours
+-	Meeting next on Thursday at 6pm
+
+11/4
+-	Revisited the class diagram and sequence diagrams
+-	Debated how each class fits with others
+-	Added World class that starts the game instead of the NPC
+-	Changed the sequence diagrams based on our new understanding of the game
+-	Worked for about 2 hours
+-	Meeting next on Teusday at 4pm
+
+11/9
+- 	Looked over SRS requirements doc
+- 	Discussed how we would go about doing different sections
+- 	Split up the work between us for the next week
+- 	Quick 30 minutes
+- 	Meet again Thursday to evaluate what each of us has done and fill more of the spec.
+
+11/11
+- 	Reviewed changes to be made to UML diagrams
+- 	Reviewed Sam's work on the prototype
+- 	Reviewed work to be done on the SRS
+		- Reviewed Josh's completed work
+- 	Schedule final review for SRS 11-12 @ 3pm
+
+11/12
+-	SRS final review
+-	Discussed and edited each section
+-	Scheduled meeting on 11/23 to prepare to build game in Unity
+
+11/23
+- 	Ensured everyone has the latest verion of LTS Unity
+- 	Ensured everyone is able to pull the prototype & run it
+- 	John working on SRS: Made first pass of SRS comments, got feedback on some issues
+- 	Josh: State Game
+- 	Demetri: Speed Typing Game
+- 	Jack: Vocab Game
+- 	Plan is to have prototype of each game on medium difficulty done by Tuesday
+
+11/30
+-	Discussed progress made for each game 
+-	Set deadline for Josh, Demitri, and Jack to finish their minigames by wednesday
+	night to give enough time for final SRS changes and prototype 
+-	Planned to meet Friday at 3pm to go over SRS and final prototype
+
+12/3	
+-	Went over and updated SRS for version 2
+-	Reviewed final prototype
+-	Planned to meet on Sunday at 2pm to discuss presentation
+
+12/5
+-	Discussed plans for presentation
+-	Collected and went over information necessary for website 

@@ -27,6 +27,10 @@ header {
     text-decoration: underline;
 }
 
+h2 {
+    text-decoration: underline;
+}
+
 p {
     padding-left: 100px;
     padding-right: 100px;
